@@ -26,10 +26,6 @@ The following **optional** features are implemented:
 - [ ] User can comment on a post and see all comments for each post in the post details screen.
 - [ ] User can like a post and see number of likes for each post in the post details screen.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -63,9 +59,9 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Project 3 - *Instagram Clone*
+# Project 3 - *Instagram Clone Part I*
 
-**Instagram Clone** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instagram Clone Part I** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **6** hours spent in total
 
@@ -84,9 +80,7 @@ The following **optional** features are implemented:
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
 
-The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
